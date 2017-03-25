@@ -4,11 +4,11 @@
 
 # Site
 title: Smart Town
-subtitle:
+subtitle: 青春是什么
 description:
 author: Smart.Zhou
-language:
-timezone: +8:00
+language: zh-CN
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
